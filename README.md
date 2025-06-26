@@ -1,31 +1,16 @@
-README: Nike Clone App
-Welcome to the Nike Clone App! This Flutter-based application is a replica of the official Nike app, delivering a sleek, interactive, and highly responsive user interface. Designed with modern UI/UX principles, it provides a seamless experience for users while serving as a valuable reference for developers working on e-commerce or product showcase applications.
+# currency_convertor
 
-Features
-Modern UI/UX Design:
+A new Flutter project.
 
-Clean and visually appealing interface inspired by the official Nike app.
-Smooth animations and transitions for an enhanced user experience.
-Product Showcase:
+## Getting Started
 
-Browse through a collection of Nike products with high-quality images and detailed descriptions.
-Interactive product views for better user engagement.
-Customizable Layouts:
+This project is a starting point for a Flutter application.
 
-Modular code structure, allowing developers to easily modify or extend the app.
-Cross-Platform Support:
+A few resources to get you started if this is your first Flutter project:
 
-Built with Flutter, ensuring compatibility on both Android and iOS devices.
-Developer-Friendly Architecture:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Easy-to-read and scalable code, making it an excellent reference for e-commerce app development.
-Technologies Used
-Frontend:
-
-Flutter: Cross-platform framework for building the user interface.
-State Management:
-
-Provider or Riverpod (or any chosen package for managing app state).
-UI Framework:
-
-Material Design for a modern and consistent user experience.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
